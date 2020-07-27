@@ -113,7 +113,7 @@ export default StyleSheet.create(
               color: 'white',
     },
     viewimage:{
-      alignSelf:'left',
+      alignSelf:'flex-end',
       height:60,
       width:60,
       borderBottomLeftRadius:25,
